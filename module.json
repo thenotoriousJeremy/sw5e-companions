@@ -13,7 +13,7 @@
             "system": "sw5e",
             "path": "./packs/companion-classes.db",
             "module": "sw5e-companions",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "companion-class-feats",
@@ -21,7 +21,7 @@
             "system": "sw5e",
             "path": "./packs/companion-class-feats.db",
             "module": "sw5e-companions",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "companion-details",
@@ -29,7 +29,7 @@
             "system": "sw5e",
             "path": "./packs/companion-details.db",
             "module": "sw5e-companions",
-            "entity": "JournalEntry"
+            "type": "JournalEntry"
         },
         {
             "name": "companion-natures",
@@ -37,7 +37,7 @@
             "system": "sw5e",
             "path": "./packs/companion-natures.db",
             "module": "sw5e-companions",
-            "entity": "Item"
+            "type": "Item"
         },		
         {
             "name": "companion-traits",
@@ -45,7 +45,7 @@
             "system": "sw5e",
             "path": "./packs/companion-traits.db",
             "module": "sw5e-companions",
-            "entity": "Item"
+            "type": "Item"
         },
 		{
             "name": "companion-weaponry",
@@ -53,11 +53,11 @@
             "system": "sw5e",
             "path": "./packs/companion-weaponry.db",
             "module": "sw5e-companions",
-            "entity": "Item"
+            "type": "Item"
         }
 
     ],
-	"url": "https://github.com/sw5e-foundry/sw5e-companions",
-	"manifest": "https://github.com/sw5e-foundry/sw5e-companions/releases/latest/download/module.json",
-	"download": "https://github.com/sw5e-foundry/sw5e-companions/releases/latest/download/module.zip"
+	"url": "https://github.com/thenotoriousJeremy/sw5e-companions",
+	"manifest": "https://github.com/thenotoriousJeremy/sw5e-companions/releases/latest/download/module.json",
+	"download": "https://github.com/thenotoriousJeremy/sw5e-companions/releases/latest/download/module.zip"
  }
